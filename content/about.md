@@ -1,13 +1,13 @@
 +++
-title = ""
-description = "Hugo, the world's fastest framework for building websites"
+title = "About"
+description = ""
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
-sidebar = false
-showDate = false
-showReadtime = false
-showShare = false
+sidebar = true
+showDate = true
+showReadtime = true
+showShare = true
 +++
 
 ![](https://www.chipsalliance.org/images/chips_alliance.svg)
