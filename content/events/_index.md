@@ -1,0 +1,4 @@
+---
+# headless: true
+showsidebar : false
+---

@@ -1,0 +1,11 @@
+[en]
+  title = "AWS - CHIPS Alliance"
+  LanguageName = "English"
+  weight = 1
+
+[fr]
+  title = "AWG - CHIPS Alliance" # just for the sake of showing this is possible
+  LanguageName = "Français"
+  weight = 2
+
+  # tip: assign the default language the lowest Weight
